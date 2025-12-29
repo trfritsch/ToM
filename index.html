@@ -6,42 +6,60 @@
     <title>Tent of Meeting Ministry</title>
    
 <style>
-    :root {
-      --clr-primary: #00A5C0;
-      --clr-secondary: #7FD2DF;
-      --clr-dark: #006875;
+    
+/* Proton brand-inspired variables */
+:root {
+  /* Core Proton colors */
+  --clr-accent: #7341FF;        /* Electric Violet */
+  --clr-primary: #38257F;       /* Deep Indigo (Meteorite) */
+  --clr-secondary: #C6BDEC;     /* Soft Lilac (Biloba Flower) */
 
-      --clr-accent: #6F37E3;
-      --clr-accent-light: #A56FFB;
+  /* Legacy Proton pair (optional) */
+  --clr-legacy-slate: #505264;  /* Trout */
+  --clr-legacy-bluebell: #8A90C7; /* Blue Bell */
 
-      --clr-text-dark: #333333;
-      --clr-text-secondary: #666666;
+  /* Neutrals */
+  --clr-text-dark: #222222;
+  --clr-text-secondary: #555555;
+  --clr-bg-light: #F7F7F8;
+  --clr-white: #FFFFFF;
+}
 
-      --clr-bg-light: #F5F5F5;
-      --clr-white: #FFFFFF;
-    }
+/* Base styles */
+body {
+  background-color: var(--clr-bg-light);
+  color: var(--clr-text-dark);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
 
-    body {
-      background-color: var(--clr-bg-light);
-      color: var(--clr-text-dark);
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
+h1, h2 {
+  color: var(--clr-primary);
+}
 
-    h1 {
-      color: var(--clr-primary);
-    }
+a {
+  color: var(--clr-primary);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--clr-accent);
+}
 
-    .btn {
-      background-color: var(--clr-accent);
-      color: var(--clr-white);
-      padding: 10px 20px;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-    .btn:hover {
-      background-color: var(--clr-accent-light);
-    }
+.btn {
+  background-color: var(--clr-accent);
+  color: var(--clr-white);
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+}
+.btn:hover {
+  background-color: var(--clr-secondary);
+  color: var(--clr-primary);
+}
+
 </style>
 </head>
 <body>
