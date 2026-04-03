@@ -1,0 +1,51 @@
+{title:Agnus Dei}
+{artist:Michael W. Smith}
+{key:A}
+{capo:0}
+{tempo:66}
+{time:4/4}
+{define: D/A base-fret 1 frets x 0 0 2 3 2}
+{define: E/A base-fret 1 frets x 0 2 1 0 0}
+{define: A/C# base-fret 1 frets x 4 2 2 2 0}
+{book:Worship}
+{ccli:626713}
+{flow:Intro, V ,C ,Tag}
+{copyright:Copyright © 1990 Sony/ATV Milene Music}
+
+# Tim Key:A - Capo:0 - BPM:66
+
+{cb:FLOW -> Intro, V ,C ,Tag}
+
+{cb:Intro}
+ 
+{sot:Intro}
+|[A] . . . . . . . .|
+{eot}
+
+{sov:Verse}
+[A]Al [Asus2]- [A]le -[D/A]lu - [A]jah, 
+[A]Al [Asus2]- [A]le -[D/A]lu [E/A]- [D/A]jah, 
+For the [E/A]Lord God Alm[D/A]ighty [A]reigns
+
+[A]Al [Asus2]- [A]le -[D/A]lu - [A]jah, 
+[A]Al [Asus2]- [A]le -[D/A]lu [E/A]- [D/A]jah, 
+For the [E/A]Lord God Alm[D/A]ighty [A]reigns
+
+[A]Al [Asus2]- [A]le -[D/A]lu [E/A]- [D/A]jah,
+{eov}
+
+{soc: Chorus}
+[D]Ho [E]- [A]ly, [E/A]Ho - [A]ly
+Are You [D]Lord [A]God Al - [F#m]migh - [E]ty
+[Bm]Worthy [A/C#]is the [D]Lamb
+[Bm]Worthy [A/C#]is the [D]Lamb
+ 
+You are Ho - [A]ly, [E]Ho - [A]ly
+Are You [D]Lord [A]God Al - [F#m]migh - [E]ty
+[Bm]Worthy [A/C#]is the [D]Lamb
+[Bm]Worthy [A/C#]is the [D]Lamb
+{eoc}
+
+{sop:tag}
+A - [A]m - en
+{eop}

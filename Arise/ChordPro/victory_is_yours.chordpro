@@ -8,12 +8,12 @@
 {define: A/E base-fret 1 frets 0 0 2 2 2 0}
 {book:Worship}
 {ccli:7119313}
-{flow:Intro, V1, C1, V2, C1, Break, B, C2, B, Inst, C1}
+{flow:Intro, V1, C1, V2, C1, Inter, B, C2, B, Inst, C1}
 {copyright:Copyright © 2017 SHOUT! Music Publishing Australia; Bethel Music Publishing}
 
 # Original: Key:A - Capo:0 - BPM:70
 
-{cb:FLOW -> Intro, V1, C1, V2, C1, Break, B, C2, B, Inst, C1}
+{cb:FLOW -> Intro, V1, C1, V2, C1, Inter, B, C2, B, Inst, C1}
 
 {cb:Intro}
  
@@ -48,7 +48,7 @@ The [F#m]walls of the prison will shake
 As we cry out in wor[D]ship,  Ohh[Bm]hh Yeah
 {eov}
 
-{sot:Break}
+{sot:Inter}
 |[D] / / / |[E] / / / |[F#m] / / / |[C#m] / / / |
 {eot}
 
