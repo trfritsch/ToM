@@ -7,18 +7,16 @@
 {define:Bb/D base-fret 1 frets x 5 3 3 3 6}
 {book:Worship}
 {ccli:7129060}
-{flow:Intro,V1,C,Intro,V2,C,C,Interlude,B1,B2,C,C,B2,Outro}
+{flow:Intro,V1,C,Intro,V2,C,C,Inter,B1,B2,C,C,B2,Outro,End}
 {copyright:Copyright © 2019 SHOUT! Music Publishing Australia,Fellow Ships Music,Music by Elevation Worship Publishing,So Essential Tunes}
 
 # Tim: Key:G - Capo:0 - BPM:77
 
-{cb:FLOW -> Intro,V1,C,Intro,V2,C,C,Interlude,B1,B2,C,C,B2,Outro}
+{cb:FLOW -> Intro,V1,C,Intro,V2,C,C,Inter,B1,B2,C,C,B2,Outro,End}
 
-{cb:Intro}
- 
-{sot:Intro}
+{sop:Intro}
 |[Gm] / [Eb] /|[Bb] ///|[Gm] / [Eb] /|[Bb] ///|
-{eot}
+{eop}
 
 {sov:Verse 1}
 The [Gm]weapon may be [Eb]formed but it won't p[Bb]rosper
@@ -45,9 +43,9 @@ I [Gm]know how this [Eb]story e[Bb]nds
 I [Gm]know how this [Eb]story e[Bb]nds
 {eov}
 
-{sot:Interlude}
+{sop:Inter}
 |[Eb] ///|[Fsus] // [Bb/D]|[Eb] // [Gm]|[Fsus] ///|
-{eot}
+{eop}
 
 {sob:Bridge 1}
 [Eb]   You take what the enemy meant for [Fsus]evil
@@ -63,6 +61,10 @@ You turn it [Gm]for g[Fsus]ood
 (Repeat)
 {eob}
 
-{sot:Outro}
-|[Eb] ///|[Fsus] // [Gm]|[Eb] // [Gm]|[Fsus] ///|[Eb] . . .]|
-{eot}
+{sop:Outro}
+|[Eb] ///|[Fsus] // [Gm]|[Eb] // [Gm]|[Fsus] ///|[Eb] . . .|
+{eop}
+
+{sop:End}
+|[Gm] . . .|. . . .|
+{eop}
