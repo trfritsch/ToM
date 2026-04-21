@@ -16,8 +16,6 @@
 
 {cb:FLOW -> Intro, V ,C ,Tag}
 
-{cb:Intro}
- 
 {sot:Intro}
 |[A] . . . . . . . .|
 {eot}
@@ -34,7 +32,7 @@ For the [E/A]Lord God Alm[D/A]ighty [A]reigns
 [A]Al [Asus2]- [A]le -[D/A]lu [E/A]- [D/A]jah,
 {eov}
 
-{soc: Chorus}
+{soc:Chorus}
 [D]Ho [E]- [A]ly, [E/A]Ho - [A]ly
 Are You [D]Lord [A]God Al - [F#m]migh - [E]ty
 [Bm]Worthy [A/C#]is the [D]Lamb
@@ -46,6 +44,6 @@ Are You [D]Lord [A]God Al - [F#m]migh - [E]ty
 [Bm]Worthy [A/C#]is the [D]Lamb
 {eoc}
 
-{sop:tag}
+{sop:Tag}
 A - [A]m - en
 {eop}

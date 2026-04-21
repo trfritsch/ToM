@@ -13,8 +13,6 @@
 
 {cb:FLOW -> Intro, V1, C1, V2, C1, C1, B, C2, Inter, Tag, B, B, Ending}
 
-{cb:Intro}
-
 {sot:Intro}
 |[Am] / / / |[F] / / / |[C] / / / |[G] / / / |
 {eot}
@@ -59,10 +57,10 @@ Je[F]sus, Jesus [Am] [G]
 |[F] / / / |[Am] / [G] / |[F] / / / |[Am] / [G] / |
 {eot}
 
-{sov:Tag} 
+{sop:Tag} 
 Je[F]sus, Jesus, [Am]  [G]
 Je[F]sus, Jesus, [Am]  [G] 
-{eov}
+{eop}
 
 {sot:Ending}
 |[F] . . . . . . . . . . . . |

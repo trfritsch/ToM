@@ -10,11 +10,9 @@
 {flow:Intro, V1, C, Inter, V2, C, B1, Inst, B2, Vamp1, Vamp2, C}
 {copyright:Copyright © 2025 Capitol CMG Paragon; Songs By That Dog Will Hunt; Brandon Lake Music; Just When Publishing; Music by Elevation Worship Publishing; So Essential Tunes}
 
-# Tim: Key:C - Capo:0 - BPM:172
+# Tim: Key:Bb - Capo:0 - BPM:172
 
 {cb:FLOW -> Intro, V1, C, Inter, V2, C, B1, Inst, B2, Vamp1, Vamp2, C}
-
-{cb:Intro}
  
 {sot:Intro}
 |[C]//[Csus]//|[C]/////|[Bb]/////|[F]/////|
@@ -82,18 +80,18 @@ The gates[Bb/C] of [F/C]hell shake
 [C]And [Csus]where [C]oh grave your [Bb]victor[F]y 
 {eob}
 
-{sov:Vamp1}
+{sop:Vamp1}
 [C]  Dead things come alive
 [C]  Dead things come alive
 [Bb]  Dead things come alive
 In the [F]Name of Jesus
 (Repeat)
-{eov}
+{eop}
 
-{sov:Vamp2}
+{sop:Vamp2}
 [C]   Dead things come alive
 [C]   Dead things come alive
 [Bb/D]   Dead things come alive
 In the [F]Name of Jesus
 (Repeat)
-{eov}
+{eop}

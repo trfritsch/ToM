@@ -14,9 +14,9 @@
 
 {cb:FLOW -> Intro,V1,C,Intro,V2,C,C,Inter,B1,B2,C,C,B2,Outro,End}
 
-{sop:Intro}
+{sot:Intro}
 |[Gm] / [Eb] /|[Bb] ///|[Gm] / [Eb] /|[Bb] ///|
-{eop}
+{eot}
 
 {sov:Verse 1}
 The [Gm]weapon may be [Eb]formed but it won't p[Bb]rosper
@@ -43,9 +43,9 @@ I [Gm]know how this [Eb]story e[Bb]nds
 I [Gm]know how this [Eb]story e[Bb]nds
 {eov}
 
-{sop:Inter}
+{sot:Inter}
 |[Eb] ///|[Fsus] // [Bb/D]|[Eb] // [Gm]|[Fsus] ///|
-{eop}
+{eot}
 
 {sob:Bridge 1}
 [Eb]   You take what the enemy meant for [Fsus]evil
@@ -61,10 +61,10 @@ You turn it [Gm]for g[Fsus]ood
 (Repeat)
 {eob}
 
-{sop:Outro}
+{sot:Outro}
 |[Eb] ///|[Fsus] // [Gm]|[Eb] // [Gm]|[Fsus] ///|[Eb] . . .|
-{eop}
+{eot}
 
-{sop:End}
+{sot:End}
 |[Gm] . . .|. . . .|
-{eop}
+{eot}

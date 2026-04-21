@@ -7,14 +7,12 @@
 {define: C/E base-fret 1 frets 0 3 2 0 1 0}
 {book:Worship}
 {ccli:7206001}
-{flow:Intro,V1,C,Turn,V2,C,Inter1,B1,C,B2,Inter2,C,Ending}
+{flow:Intro, V1, C, Turn, V2, C, Inter1, B1, C, B2, Inter2, C, Ending}
 {copyright:Copyright © 2023 Brandon Lake Music; Music by Elevation Worship Publishing; A Wong Made Write Publishing; Integrity's Praise! Music}
 
 # Tim: Key:Bb - Capo:0 - BPM:74
 
 {cb:FLOW -> Intro, V1, C, Turn, V2, C, Inter1, B1, C, B2, Inter2, C, Ending}
-
-{cb:Intro}
  
 {sot:Intro}
 |[C] /////|//////|[Am] /////|//////|[F] /////|//////|[Dm] /////|[F] /////|
@@ -50,18 +48,18 @@ Praising my [F]risen King and Savior [C/E] all the d[Dm]-a-y long[F]
 {eot}
 
 {sob:Bridge 1}
- [C]I sought the Lord and He heard and He answered 
- [Am]I sought the Lord and He heard and He answered
- [F]I sought the Lord and He heard and He answered                  
- [Dm] That's why I trust Him,[F] that's why I trust Him
+[C]I sought the Lord and He heard and He answered 
+[Am]I sought the Lord and He heard and He answered
+[F]I sought the Lord and He heard and He answered                  
+[Dm] That's why I trust Him,[F] that's why I trust Him
 (Repeat x 3)
 {eob}
 
 {sob:Bridge 2}
- [C]I sought the Lord and He heard and He answered 
- [Am]I sought the Lord and He heard and He answered
- [F]I sought the Lord and He heard and He answered                  
- [Dm] That's why I trust Him,[F] that's why I trust Him
+[C]I sought the Lord and He heard and He answered 
+[Am]I sought the Lord and He heard and He answered
+[F]I sought the Lord and He heard and He answered                  
+[Dm] That's why I trust Him,[F] that's why I trust Him
 (Repeat)
 {eob}
 

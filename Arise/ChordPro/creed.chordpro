@@ -1,6 +1,6 @@
 {title:Creed}
 {artist:David (Beaker) Strasser; Rich Mullins}
-{key:F}
+{key:G}
 {capo:0}
 {tempo:110}
 {time:4/4}
@@ -12,11 +12,9 @@
 {flow:Intro, Vamp, V1, Refrain, Inter, V2, Refrain, Inter2, V3, Refrain2, Ending}
 {copyright:Copyright © 1993 Kid Brothers Of St. Frank Publishing; Universal Music - Brentwood Benson Publishing}
 
-# Tim: Key:G - Capo:0 - BPM:110
+# Tim: Key:G - Capo:3 - BPM:110
 
 {cb:FLOW -> Intro, Vamp, V1, Refrain, Inter, V2, Refrain, Inter2, V3, Refrain2, Ending}
-
-{cb:Intro}
  
 {sot:Intro}
 |[Em] . . .|. . . .|. . . .|. . . .|
@@ -25,14 +23,14 @@
 |[Em] . . .|. . . .|. . . .|. . . .|
 {eot}
 
-{sov:Vamp}
+{sop:Vamp}
 I Be-lie[D5]-ve, I Be-lie[Em]-ve Ahhhh..
 [D5]  I Be-lie[Am]-ve   [C2]
 |[Am] . . .|[G/B] . . .|[C2] . . .|[D] . . .|. . . .|
 |[G] / [Gsus] / | [G] . . . |
 |[G] / [Gsus] / | [G] . . . |
 |[G] / [Gsus] / | [G] . . . |
-{eov}
+{eop}
 
 {sov:Verse 1}    
 I believe in God the Father |[G] / [Gsus] / | [G] . . . | 
@@ -67,14 +65,14 @@ I believe that He's returning  |[G] / [Gsus] / | [G] . . . |
 To judge the quick and the dead of the sons of men    
 {eov}
 
-{sov:Inter2}
+{sop:Inter2}
 |[Em] . . . | . . . . |[D5] . . . | . . . . |      
 I believe, I believe it |[Em] . . . | . . . . |[D5] . . . | . . . . |    
 Woah, I said i believe it [Am] 
 Yes, i bel[C2]ieve it                                
 Oh I believe it [Am]  [G/B]   [C]   [D4]
 |[G] / [Gsus] / | [G] . . . |
-{eov}
+{eop}
 
 {sov:Verse 3}    
 I believe in God the Father |[G] / [Gsus] / | [G] . . . |  
@@ -89,15 +87,15 @@ I[C] believe in the re[F/C]surrection |[C] . [F/C] . |
 I bel[C]ieve in a life that ne[F/C]ver ends  
 {eov}
 
-{soc:Refrain2} 
+{sop:Refrain2} 
 I[Em] believe what I believe is what ma[D5]kes me what I am   [Dsus4]   [D]   
 I d[C2]id not make it, no it is making me
 I d[C2]id not make it, no it is making me
 I d[C2]id not make it, no it is making me  
 It is the very truth of God and not the invention of any man  
-{eoc}
+{eop}
 
-{sov:Ending}
+{sop:Ending}
 |[G] / [Gsus] / | [G] . . . |
 I believe it, I believe it |[G] / [Gsus] / | [G] . . . |
 I believe, I believe it |[C] / [F/C] / | [C] . . . |
@@ -106,4 +104,4 @@ do you believe it? |[G] / [Gsus] / | [G] . . . |
 do you believe it? |[G] / [Gsus] / | [G] . . . |
 do you believe it? |[G] / [Gsus] / | [G] . . . |
 yes, we believe it. |[G] / [Gsus] / | [G] . . . |
-{eov}
+{eop}

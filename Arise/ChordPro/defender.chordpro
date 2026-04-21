@@ -6,17 +6,15 @@
 {time:4/4}
 {book:Worship}
 {ccli:7081764}
-{flow:Intro, V1, Inter, V2, PC, C, V3, PC, C, C, Inst, B1, B2, C, C, Outro}
+{flow:Intro, V1, Inter, V2, PC, C, V3, PC, C, C, Inst, B1, B2, C, C, Tag, Outro}
 {copyright:Copyright © 2015 Mingo Mango; Capitol CMG Paragon; Gateway Create Publishing; Bethel Music Publishing}
 
-# Jillian: Key:F# - Capo:0 - BPM:70
+# Jillian: Key:F - Capo:0 - BPM:70
 
-{cb:FLOW -> Intro, V1, Inter, V2, PC, C, V3, PC, C, C, Inst, B1, B2, C, C, Outro}
+{cb:FLOW -> Intro, V1, Inter, V2, PC, C, V3, PC, C, C, Inst, B1, B2, C, C, Tag, Outro}
 
-{cb:Intro}
- 
 {sot:Intro}
-| [F#] / / / | [B2] / / / | [F#] / / / | [B2] / / / |
+|[F#] / / / |[B2] / / / |[F#] / / / |[B2] / / / |
 {eot}
 
 {sov:Verse 1}
@@ -26,25 +24,23 @@ You come back with the [D#m7]head of my ene[C#]my
 You come back and You [D#m7]call it my vic[C#]tory  
 {eov}
 
-{cb:Inter}
-
 {sot:Inter}
-| [F#] / / / | [B2] / / / | [F#] / / / | [B2] / / / |
+|[F#] / / / |[B2] / / / |[F#] / / / |[B2] / / / |
 {eot}
 
 {sov:Verse 2}
 You [F#]go before, I know[B2]
 That You've even [F#]gone to win my war[B2] 
 Your love becomes my [D#m7]greatest defe[C#]nse 
-It leads me from the [D#m7]dry wilder[C#]ness  
+It leads me through the [D#m7]dry wilder[C#]ness  
 {eov}
 
-{soc:PC} 
+{sop:PC} 
 All I did was [F#2/A#]praise    [B2]
 All I did was [F#2/C#]worship [B2] 
 All I did was [F#2/A#]bow down [B2]
 All I did was [F#2/C#]stay still  [B2]
-{eoc}
+{eop}
 
 {soc:Chorus}
 [C#]Halle[D#m]lujah, [B2]You have saved me
@@ -59,8 +55,6 @@ Where my heart can [F#]seek to find Your [B2]truth
 Your mercy is the [D#m7]shade I'm living in[C#sus]
 You restore my [D#m7]faith and hope [C#sus]again  
 {eov}
-
-{cb:Inst}
 
 {sot:Inst} 
 |[C#] / [D#m] / | [B] / / / | [C#] / [D#m] / | [B] / / / |
@@ -86,12 +80,10 @@ You are the De[F#2/C#]fender of my [B2]heart
 (Repeat)
 {eob}
 
-{sov:Tag} 
-[C#]   So much [D#m]better this [B2]way  
-[C#]   So much [D#m]better this [B2]way  
-{eov}
-
-{cb:Outro}
+{sop:Tag} 
+[C#]  So much [D#m]better this [B2]way  
+[C#]  So much [D#m]better this [B2]way  
+{eop}
 
 {sot:Outro}
 |[F#2/A#] / / / | [B2] / / / | [F#2/C#] / / / | [B2] . . . |

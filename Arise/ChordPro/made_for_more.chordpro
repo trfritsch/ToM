@@ -7,14 +7,12 @@
 {define:C/E base-fret 1 frets 0 3 2 0 1 0}
 {book:Worship}
 {ccli:7207758}
-{flow:I, V1, C1, V1, C1, B, C2, C1, B, C2}
+{flow:Intro, V1, C1, V1, C1, B, C2, C1, B, C2}
 {copyright:Copyright © Glory Ghost Publishing; Capitol CMG Paragon; Jessie Parker Early Music; Be Essential Songs; Cashagamble Jet Music; Last War Songs; Maverick City Publishing; Bethel Music Publishing}
 
 # Tim: Key:B - Capo:0 - BPM:75
 
 {cb:FLOW -> Intro, V1, C1, V1, C1, B, C2, C1, B, C2}
-
-{cb:Intro}
  
 {sot:Intro}
 |[C]/////|///[Csus]//|[C]/////|//////|
