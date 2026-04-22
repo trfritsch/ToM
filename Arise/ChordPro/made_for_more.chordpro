@@ -12,11 +12,9 @@
 
 # Tim: Key:B - Capo:0 - BPM:75
 
-{cb:FLOW -> Intro, V1, C1, V1, C1, B, C2, C1, B, C2}
- 
-{sot:Intro}
+{sop:Intro}
 |[C]/////|///[Csus]//|[C]/////|//////|
-{eot}
+{eop}
 
 {sov:Verse 1}
 I know who I [C]am 'cause I kn[Csus]ow who [C] You are

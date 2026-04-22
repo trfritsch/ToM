@@ -11,11 +11,9 @@
 
 # Original: Key:C - Capo:0 - BPM:74
 
-{cb:FLOW -> Intro, V1, C1, V2, C1, C1, B, C2, Inter, Tag, B, B, Ending}
-
-{sot:Intro}
+{sop:Intro}
 |[Am] / / / |[F] / / / |[C] / / / |[G] / / / |
-{eot}
+{eop}
 
 {sov:Verse 1}
 P[Am]eace, bring it all to pe[F]ace 
@@ -53,15 +51,15 @@ Je[F]sus, Jesus, [C] you make the dark[G]ness tremble
 Je[F]sus, Jesus [Am] [G] 
 {eoc}
 
-{sot:Inter}
+{sop:Inter}
 |[F] / / / |[Am] / [G] / |[F] / / / |[Am] / [G] / |
-{eot}
+{eop}
 
 {sop:Tag} 
 Je[F]sus, Jesus, [Am]  [G]
 Je[F]sus, Jesus, [Am]  [G] 
 {eop}
 
-{sot:Ending}
+{sop:Ending}
 |[F] . . . . . . . . . . . . |
-{eot}
+{eop}

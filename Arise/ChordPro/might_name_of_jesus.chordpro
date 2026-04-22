@@ -13,11 +13,9 @@
 
 # Original: Key:Eb - Capo:0 - BPM:72
 
-{cb:FLOW -> Intro, V1, C1, V2, C1, B, C2, Tag}
- 
-{sot:Intro}
+{sop:Intro}
 |[Ab2] / / [Cm] | [Bb] / / / | [Eb/G] / / [Bb] | [Ab2] / / / |
-{eot}
+{eop}
 
 {sov:Verse 1}
 I [Ab2]pray into the atmosphere

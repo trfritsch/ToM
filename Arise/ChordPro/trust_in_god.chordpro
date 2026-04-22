@@ -11,12 +11,10 @@
 {copyright:Copyright © 2023 Brandon Lake Music; Music by Elevation Worship Publishing; A Wong Made Write Publishing; Integrity's Praise! Music}
 
 # Tim: Key:Bb - Capo:0 - BPM:74
-
-{cb:FLOW -> Intro, V1, C, Turn, V2, C, Inter1, B1, C, B2, Inter2, C, Ending}
  
-{sot:Intro}
+{sop:Intro}
 |[C] /////|//////|[Am] /////|//////|[F] /////|//////|[Dm] /////|[F] /////|
-{eot}
+{eop}
 
 {sov:Verse 1}
 Blessed assu[C]rance, Jesus is [Am]mine
@@ -32,9 +30,9 @@ He will never [Dm]fa - a - [F]il
 (Repeat)
 {eoc}       
 
-{sot: Turn}
+{sop: Turn}
 |[F] /////|
-{eot}
+{eop}
 
 {sov:Verse 2} 
 Perfect sub[C]mission, all is at [Am] rest
@@ -43,9 +41,9 @@ So this is my sto[C]ry, and this is my [Am]song
 Praising my [F]risen King and Savior [C/E] all the d[Dm]-a-y long[F]
 {eov}
 
-{sot:Inter1}
+{sop:Inter1}
 |[C] /////|//////|[Am] /////|//////|[F] /////|//////|[Dm] /////|[F] /////|
-{eot}
+{eop}
 
 {sob:Bridge 1}
 [C]I sought the Lord and He heard and He answered 
@@ -63,11 +61,11 @@ Praising my [F]risen King and Savior [C/E] all the d[Dm]-a-y long[F]
 (Repeat)
 {eob}
 
-{sot:Inter2}
+{sop:Inter2}
 |[C] /////|//////|[Am] /////|//////|[F] /////|//////|[Dm] /////|[F] /////|
 |[C] /////|//////|[Am] /////|//////|[F] /////|//////|[Dm] /////|[F] /////|
-{eot}
+{eop}
 
-{sot:Ending}
+{sop:Ending}
 |[C] /////|
-{eot}
+{eop}

@@ -14,14 +14,12 @@
 
 # Tim: Key:G - Capo:3 - BPM:110
 
-{cb:FLOW -> Intro, Vamp, V1, Refrain, Inter, V2, Refrain, Inter2, V3, Refrain2, Ending}
- 
-{sot:Intro}
+{sop:Intro}
 |[Em] . . .|. . . .|. . . .|. . . .|
 |[Em] . . .|. . . .|. . . .|. . . .|
 |[Em] . . .|. . . .|. . . .|. . . .|
 |[Em] . . .|. . . .|. . . .|. . . .|
-{eot}
+{eop}
 
 {sop:Vamp}
 I Be-lie[D5]-ve, I Be-lie[Em]-ve Ahhhh..
@@ -49,11 +47,11 @@ I d[C2]id not make it, no it is making me
 It is the very truth of God and not the invention of any man  
 {eoc}
  
-{sot:Inter}
+{sop:Inter}
 |[G] / [Gsus] / | [G] . . . |
 |[G] / [Gsus] / | [G] . . . |
 |[G] / [Gsus] / | [G] . . . |
-{eot}
+{eop}
 
 {sov:Verse 2}
 I believe that He who suffered  |[G] / [Gsus] / | [G] . . . |

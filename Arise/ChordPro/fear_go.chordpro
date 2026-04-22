@@ -12,11 +12,9 @@
 # Original: Key:F#m / A (Rel Maj) - Capo:0 - BPM:140
 # Tim: Key Dm / F (Rel Major) - Capo:0 - BPM: 140
 
-{cb:FLOW -> Intro, C, Break}
- 
-{sot:Intro}
+{sop:Intro}
 |[F#m] / / / |[E] / / / |[D] / / / |[A] / / / |
-{eot}
+{eop}
 
 {soc:Chorus}
 Fear Go [F#m]
@@ -26,6 +24,6 @@ Blow Like The W[A]ind
 (Repeat)
 {eoc}
 
-{sot:Break}
+{sop:Break}
 |[F#m] / / / |[E] / / / |[D] / / / |[A] / / / |
-{eot}
+{eop}

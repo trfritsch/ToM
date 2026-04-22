@@ -11,12 +11,10 @@
 {copyright:Copyright © 2025 Capitol CMG Paragon; Songs By That Dog Will Hunt; Brandon Lake Music; Just When Publishing; Music by Elevation Worship Publishing; So Essential Tunes}
 
 # Tim: Key:Bb - Capo:0 - BPM:172
-
-{cb:FLOW -> Intro, V1, C, Inter, V2, C, B1, Inst, B2, Vamp1, Vamp2, C}
  
-{sot:Intro}
+{sop:Intro}
 |[C]//[Csus]//|[C]/////|[Bb]/////|[F]/////|
-{eot}
+{eop}
 
 {sov:Verse 1}
 I know a [C]Name 
@@ -40,9 +38,9 @@ Something comes out of the [Bb]grave
 [F]Every time I call Your [C]Name 
 {eoc}
 
-{sot:Inter}
+{sop:Inter}
 |[C]////[Csus]|[C]/////|
-{eot}
+{eop}
 
 {sov:Verse 2}
 I have a [C]King
@@ -68,9 +66,9 @@ The gates[Bb/C] of [F/C]hell shake
 [Fm/C]Every time I call Your [C]Name 
 {eob}
 
-{sot:Inst} 
+{sop:Inst} 
 |[C]////[Csus]|[C]/////|[Bb/C]/////|[F/C]/////|
-{eot}
+{eop}
 
 {sob:Bridge 2}
 [C]Where [Csus]oh de[C]ath is [Bb/C]now your [F/C]sting

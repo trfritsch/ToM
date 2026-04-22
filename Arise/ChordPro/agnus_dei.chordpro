@@ -14,11 +14,9 @@
 
 # Tim Key:A - Capo:0 - BPM:66
 
-{cb:FLOW -> Intro, V ,C ,Tag}
-
-{sot:Intro}
+{sop:Intro}
 |[A] . . . . . . . .|
-{eot}
+{eop}
 
 {sov:Verse}
 [A]Al [Asus2]- [A]le -[D/A]lu - [A]jah, 

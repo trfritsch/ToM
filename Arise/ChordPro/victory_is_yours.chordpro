@@ -13,11 +13,9 @@
 
 # Original: Key:A - Capo:0 - BPM:70
 
-{cb:FLOW -> Intro, V1, C1, V2, C1, Inter, B, C2, B, Inst, C1}
- 
-{sot:Intro}
+{sop:Intro}
 |[A] . . . . . . . . |
-{eot}
+{eop}
 
 {sov:Verse 1}
 Our [A]fight is with weapons unseen
@@ -46,9 +44,9 @@ The [F#m]walls of the prison will shake
 As we cry out in wor[D]ship,  Ohh[Bm]hh Yeah
 {eov}
 
-{sot:Inter}
+{sop:Inter}
 |[D] / / / |[E] / / / |[F#m] / / / |[C#m] / / / |
-{eot}
+{eop}
 
 {sob:Bridge}
 [D] You roar like thunder
@@ -62,10 +60,10 @@ Al[C#m]l powerful
 (Repeat)
 {eob}
 
-{sot:Inst}
+{sop:Inst}
 |[D] / / / |[E] / / / |[F#m] / / / |[C#m] / / / |
 |[D] / / / |[E] / / / |[F#m] / / / |[C#m] / / / |
-{eot}
+{eop}
 
 {soc:Chorus 2}
 [F#m] The victory is Yo[D]urs

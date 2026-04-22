@@ -11,11 +11,9 @@
 
 # Jillian: Key:F - Capo:0 - BPM:70
 
-{cb:FLOW -> Intro, V1, Inter, V2, PC, C, V3, PC, C, C, Inst, B1, B2, C, C, Tag, Outro}
-
-{sot:Intro}
+{sop:Intro}
 |[F#] / / / |[B2] / / / |[F#] / / / |[B2] / / / |
-{eot}
+{eop}
 
 {sov:Verse 1}
 You [F#]go before, I know[B2]
@@ -24,9 +22,9 @@ You come back with the [D#m7]head of my ene[C#]my
 You come back and You [D#m7]call it my vic[C#]tory  
 {eov}
 
-{sot:Inter}
+{sop:Inter}
 |[F#] / / / |[B2] / / / |[F#] / / / |[B2] / / / |
-{eot}
+{eop}
 
 {sov:Verse 2}
 You [F#]go before, I know[B2]
@@ -56,10 +54,10 @@ Your mercy is the [D#m7]shade I'm living in[C#sus]
 You restore my [D#m7]faith and hope [C#sus]again  
 {eov}
 
-{sot:Inst} 
+{sop:Inst} 
 |[C#] / [D#m] / | [B] / / / | [C#] / [D#m] / | [B] / / / |
 |[C#] / [D#m] / | [B] / / / | [C#] / [D#m] / | [B] / / / | 
-{eot}
+{eop}
 
 {sob:Bridge 1}
 When I thought I [F#2/A#]lost me  
@@ -85,6 +83,6 @@ You are the De[F#2/C#]fender of my [B2]heart
 [C#]  So much [D#m]better this [B2]way  
 {eop}
 
-{sot:Outro}
+{sop:Outro}
 |[F#2/A#] / / / | [B2] / / / | [F#2/C#] / / / | [B2] . . . |
-{eot}
+{eop}
